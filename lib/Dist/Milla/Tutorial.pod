@@ -126,7 +126,7 @@ to Milla.
 =head2 Automatic migration
 
 Sister project L<Minilla> provides a wonderful conversion tool to
-migrate your existing distribution to Milla, which happens to be
+migrate your existing distribution to Minilla, which happens to be
 compatible to Milla as well.
 
 As an author of Milla, I use Minilla's migrate command all the time to
